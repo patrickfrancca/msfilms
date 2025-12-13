@@ -138,7 +138,7 @@ const Home = () => {
           
            <div className="text-center mt-16 md:hidden">
              <Button asChild variant="outline" className="w-full py-6 uppercase tracking-widest text-xs">
-              <Link to="/work">View All Projects</Link>
+              <Link to="/work">Ver todos os projetos</Link>
             </Button>
            </div>
         </div>
